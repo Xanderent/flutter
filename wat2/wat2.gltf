@@ -1,0 +1,272 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        29.37647247314453,
+        0.5955020189285278,
+        25.529407501220703
+      ],
+      "min": [
+        -20.235511779785156,
+        -34.6747932434082,
+        -16.234066009521484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999986290931702,
+        0.9991071820259094,
+        0.9999822974205017
+      ],
+      "min": [
+        -0.9999993443489075,
+        -1.0,
+        -0.9999633431434631
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9994279742240906,
+        0.9991859793663025
+      ],
+      "min": [
+        0.0011239999439567327,
+        0.00029799999902024865
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 346512,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 49959,
+      "max": [
+        22.615856170654297,
+        0.7885310053825378,
+        34.526893615722656
+      ],
+      "min": [
+        -18.376365661621094,
+        -17.398578643798828,
+        1.2154940366744995
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2172276,
+      "componentType": 5126,
+      "count": 49959,
+      "max": [
+        0.999998152256012,
+        0.9996859431266785,
+        0.9998962879180908
+      ],
+      "min": [
+        -0.9999009966850281,
+        -1.0,
+        -0.9999674558639526
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 49959,
+      "max": [
+        0.9984109997749329,
+        0.9999160170555115
+      ],
+      "min": [
+        7.000000096013537e-06,
+        0.00012199999764561653
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1386048,
+      "componentType": 5125,
+      "count": 251616,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "SphereView360 Thailand (https://sketchfab.com/SphereView360_Thailand)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/chulamanee-pagodathailand-4aad7852a0b9496b8d24cb2d31b2ebda",
+      "title": "เจดีย์จุฬามณีย์ (Chulamanee Pagoda;Thailand)"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2392512,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 923928,
+      "byteOffset": 2392512,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2771784,
+      "byteOffset": 3316440,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6088224,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/material_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.18301964514867564,
+        -0.001742163241465132,
+        0.06958727490126959,
+        0.0,
+        0.0025324023262782436,
+        -0.19545259536025483,
+        -0.011553688359914759,
+        0.0,
+        0.06956299881634065,
+        0.01169895899061439,
+        -0.18266291508336163,
+        0.0,
+        -2.7316431999206543,
+        -8.27161312103272,
+        22.851398468017575,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "���������������������������������������������������.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}

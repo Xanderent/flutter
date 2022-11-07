@@ -1,0 +1,11 @@
+Model Information:
+* title:	เจดีย์จุฬามณีย์ (Chulamanee Pagoda;Thailand)
+* source:	https://sketchfab.com/3d-models/chulamanee-pagodathailand-4aad7852a0b9496b8d24cb2d31b2ebda
+* author:	SphereView360 Thailand (https://sketchfab.com/SphereView360_Thailand)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "เจดีย์จุฬามณีย์ (Chulamanee Pagoda;Thailand)" (https://sketchfab.com/3d-models/chulamanee-pagodathailand-4aad7852a0b9496b8d24cb2d31b2ebda) by SphereView360 Thailand (https://sketchfab.com/SphereView360_Thailand) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
