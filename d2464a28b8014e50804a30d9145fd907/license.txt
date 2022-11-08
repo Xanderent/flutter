@@ -1,0 +1,11 @@
+Model Information:
+* title:	วัดป่าท่าไท
+* source:	https://sketchfab.com/3d-models/d2464a28b8014e50804a30d9145fd907
+* author:	SphereView360 Thailand (https://sketchfab.com/SphereView360_Thailand)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "วัดป่าท่าไท" (https://sketchfab.com/3d-models/d2464a28b8014e50804a30d9145fd907) by SphereView360 Thailand (https://sketchfab.com/SphereView360_Thailand) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
