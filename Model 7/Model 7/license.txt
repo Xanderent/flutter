@@ -1,0 +1,11 @@
+Model Information:
+* title:	วัดกลาง เมืองเก่า
+* source:	https://sketchfab.com/3d-models/e8727d86d0184bd3919cebab066d60a1
+* author:	SCOPC KhonKaen (https://sketchfab.com/schaatphrmm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "วัดกลาง เมืองเก่า" (https://sketchfab.com/3d-models/e8727d86d0184bd3919cebab066d60a1) by SCOPC KhonKaen (https://sketchfab.com/schaatphrmm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
